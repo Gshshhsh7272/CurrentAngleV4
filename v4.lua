@@ -37,7 +37,7 @@ local newgamesandwhitelisted = {
 	["1662219031"] = true, --// Life in Paradies 
 	["6441847031"] = true, --// Chaos [Event] ("Might Work sometimes")
 	["17574618959"] = true, --// Just a Baseplate ("Might work but sometimes some people cant see the animation")
-	["4065093137"] = true, --// Eat Sand ("I added it because it works and why not ")
+	["168556275"] = true, --// BASEPLATE
 
 	--// Whitelisted:
 	["12109643"] = true, --// Fencing (whitelisted)
