@@ -23,7 +23,7 @@ local supportedplaces = {
 	["16389398622"] = true, --// a dusty trip
 	["9391468976"] = true, --// Jujutsu Shenanigans
 	["99584907198214"] = true, --// Roblox_Egor simulator
-	["192800"] = true, --// Work at a Pizza Place
+	["168556275"] = true, --// BASEPLATE 
 }
 
 local newgamesandwhitelisted = {
